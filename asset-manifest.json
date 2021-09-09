@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dineshbesiahagri/fullstack_youtube_summarizer/static/css/main.a617e044.chunk.css",
+    "main.js": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/main.5173168c.chunk.js",
+    "main.js.map": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/main.5173168c.chunk.js.map",
+    "runtime-main.js": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/runtime-main.c661b686.js",
+    "runtime-main.js.map": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/runtime-main.c661b686.js.map",
+    "static/js/2.6284e9a8.chunk.js": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/2.6284e9a8.chunk.js",
+    "static/js/2.6284e9a8.chunk.js.map": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/2.6284e9a8.chunk.js.map",
+    "static/js/3.48ddaf59.chunk.js": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/3.48ddaf59.chunk.js",
+    "static/js/3.48ddaf59.chunk.js.map": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/3.48ddaf59.chunk.js.map",
+    "index.html": "/dineshbesiahagri/fullstack_youtube_summarizer/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dineshbesiahagri/fullstack_youtube_summarizer/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6284e9a8.chunk.js.LICENSE.txt": "/dineshbesiahagri/fullstack_youtube_summarizer/static/js/2.6284e9a8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dineshbesiahagri/fullstack_youtube_summarizer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c661b686.js",
+    "static/js/2.6284e9a8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5173168c.chunk.js"
+  ]
+}
